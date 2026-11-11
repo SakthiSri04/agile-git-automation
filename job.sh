@@ -6,6 +6,6 @@ echo "Automated Agile Job Started: $DATE" >> job_output.log
 
 echo "Running scheduled task..." >> job_output.log
 
-sleep 2
+sleep 1
 
 echo "Automated job completed successfully: $DATE" >> job_output.log
